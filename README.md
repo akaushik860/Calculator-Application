@@ -1,4 +1,4 @@
-# Calculator-Application
+# Calculator Application
 
 ### This is simple calculator Application which is created using Android Studio in Java Language.
 #### This app is able to do all basic Arithmetic operations.
